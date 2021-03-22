@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{adamic2005political}
+Lada~A Adamic and Natalie Glance.
+\newblock The political blogosphere and the 2004 us election: divided they
+  blog.
+\newblock In {\em Proceedings of the 3rd international workshop on Link
+  discovery}, pages 36--43, 2005.
+
+\bibitem{clauset2015systematic}
+Aaron Clauset, Samuel Arbesman, and Daniel~B Larremore.
+\newblock Systematic inequality and hierarchy in faculty hiring networks.
+\newblock {\em Science advances}, 1(1):e1400005, 2015.
+
+\bibitem{colizza2007reaction}
+Vittoria Colizza, Romualdo Pastor-Satorras, and Alessandro Vespignani.
+\newblock Reaction--diffusion processes and metapopulation models in
+  heterogeneous networks.
+\newblock {\em Nature Physics}, 3(4):276--282, 2007.
+
+\bibitem{de2018exploratory}
+Wouter De~Nooy, Andrej Mrvar, and Vladimir Batagelj.
+\newblock {\em Exploratory social network analysis with Pajek: Revised and
+  expanded edition for updated software}, volume~46.
+\newblock Cambridge University Press, 2018.
+
+\bibitem{elliott2020core}
+Andrew Elliott, Angus Chiu, Marya Bazzi, Gesine Reinert, and Mihai Cucuringu.
+\newblock Core--periphery structure in directed networks.
+\newblock {\em Proceedings of the Royal Society A}, 476(2241):20190783, 2020.
+
+\bibitem{nemhauser1978analysis}
+George~L Nemhauser, Laurence~A Wolsey, and Marshall~L Fisher.
+\newblock An analysis of approximations for maximizing submodular set
+  functions—i.
+\newblock {\em Mathematical programming}, 14(1):265--294, 1978.
+
+\end{thebibliography}
